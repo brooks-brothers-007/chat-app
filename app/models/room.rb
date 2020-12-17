@@ -1,2 +1,2 @@
-class Romm < ApplicationRecord
+class Room < ApplicationRecord
 end
